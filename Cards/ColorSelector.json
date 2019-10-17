@@ -1,0 +1,28 @@
+{
+  "channelData": {
+    "postback": true
+  },
+  "channelId": "emulator",
+  "conversation": {
+    "id": "4f1c47d0-f119-11e8-bad3-4f12f90d227a|livechat"
+  },
+  "from": {
+    "id": "24474995-17e2-4290-be1f-79e27ee6140c",
+    "name": "User"
+  },
+  "id": "5ce33270-f119-11e8-975a-45ab236171db",
+  "localTimestamp": "2018-11-26T11:49:46+10:30",
+  "locale": "",
+  "recipient": {
+    "id": "15",
+    "name": "Bot",
+    "role": "bot"
+  },
+  "serviceUrl": "http://localhost:58248",
+  "timestamp": "2018-11-26T01:19:46.967Z",
+  "type": "message",
+  "value": {
+    "action": "colorselector",
+    "choiceset": "Green"
+  }
+}  
